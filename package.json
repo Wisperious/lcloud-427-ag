@@ -1,0 +1,24 @@
+{
+  "name": "lcloud-427-ag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "AWS_ACCESS_KEY_ID=AKIAS464CIUF3D5WQFNR AWS_SECRET_ACCESS_KEY=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 node index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wisperious/lcloud-427-ag.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wisperious/lcloud-427-ag/issues"
+  },
+  "homepage": "https://github.com/Wisperious/lcloud-427-ag#readme",
+  "dependencies": {
+    "aws-sdk": "^2.437.0",
+    "uuid": "^3.3.2"
+  }
+}
